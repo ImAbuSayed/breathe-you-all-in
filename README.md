@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-you-all-in/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Breathe You All In](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-you-all-in/) |
+| **Get License** | [Request Licensing for Breathe You All In](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-you-all-in/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f5b1066d3c186bbab3e4840f07d8ed354051a7601ab972eb80d371e035e88497` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

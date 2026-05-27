@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Breathe You All In
+
+This log tracks the cryptographic history and versioning for the song **Breathe You All In** (breathe-you-all-in).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:41:05.552182 | `v1` | `f5b1066d3c186bbab3e4840f07d8ed354051a7601ab972eb80d371e035e88497` | `b6e68a8dc4b713b87c30b380f9ee38711aa41d01ed33fb2cbc8905acde9248a8` | `2026-05-27_breathe-you-all-in-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
