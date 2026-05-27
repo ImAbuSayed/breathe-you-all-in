@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I watch the candlelight upon your skin
+> Open my arms and let the night begin
+> A heavy glance, a soft and pulling tide
+> I breathe you all in, with nowhere left to hide
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
